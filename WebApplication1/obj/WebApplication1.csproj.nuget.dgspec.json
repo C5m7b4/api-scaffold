@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
+    "C:\\Dev\\api-scaffold\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
+    "C:\\Dev\\api-scaffold\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "C:\\Dev\\api-scaffold\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "C:\\Dev\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "C:\\Dev\\api-scaffold\\WebApplication1\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\mbedi\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\WebApplication1\\WebApplication1\\obj\\",
+        "outputPath": "C:\\Dev\\api-scaffold\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mbedi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,7 +59,7 @@
             },
             "NSwag.AspNetCore": {
               "target": "Package",
-              "version": "[13.15.10, )"
+              "version": "[13.0.4, )"
             }
           },
           "imports": [
